@@ -149,6 +149,7 @@ dl dt {
 
 dl dd {
 	margin-left: 0;
+	margin-left: 0;
 }
 
 blockquote {
@@ -250,7 +251,7 @@ button:focus {
 	font-family: 'Montserrat', sans-serif;
 	display: inline-block;
 	font-weight: 600;
-	background: #fff;
+	/*background: #fff;*/
 	padding: 5px 20px;
 	margin-bottom: 30px;
 }
