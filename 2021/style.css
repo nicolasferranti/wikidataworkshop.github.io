@@ -173,7 +173,6 @@ button:focus {
 	border: none;
 }
 
-
 /* ========= BUTTON =========*/
 
 .mu-primary-btn {
@@ -337,7 +336,7 @@ button:focus {
 	border-radius: 50%;
 	display: inline-block;
 	height: 180px;
-	width: 180px;
+	width: 300px;
 	text-align: center;
 	font-size: 22px;
 	color: #fff;
@@ -773,6 +772,27 @@ button:focus {
 	transition: all 0.3s ease 0s;
 }
 
+.mu-single-speakers-new {
+	float: left;
+	width: 47%;
+	text-align: center;
+	margin-left: 30px;
+	margin-left: 30px;
+	background-color: #f3f3f3;
+}
+
+.mu-speakers-slider-new {
+	text-align: center;
+}
+
+/* Clear floats after the columns */
+.mu-speakers-slider-new:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
 .mu-speakers-slider .slick-next {
 	right: -60px;
 }
@@ -786,6 +806,10 @@ button:focus {
 	float: left;
 	margin-top: 20px;
 	width: 100%;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
 }
 
 .mu-single-speakers-info h3 {
