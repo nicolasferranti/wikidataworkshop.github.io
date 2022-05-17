@@ -1164,7 +1164,8 @@ button:focus {
 	width: 100%;
 	text-align: center;
 	padding: 0 150px;
-	margin-top: 50px;
+	margin-top: 25px;
+	margin-bottom: 25px;
 }
 
 .mu-faq-content .panel-default {
