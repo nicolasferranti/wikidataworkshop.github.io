@@ -135,7 +135,6 @@ kbd {
 	background-color: #ddd;
 	padding: 4px 6px;
 	border-radius: 2px;
-	color: ;
 }
 
 address {
@@ -431,6 +430,7 @@ button:focus {
 	text-align: center;
 	padding: 0 120px;
 	width: 100%;
+
 }
 
 .mu-title {
@@ -439,6 +439,7 @@ button:focus {
 	padding: 0;
 	z-index: 10;
 	text-transform: capitalize;
+  color: rgb(233, 70, 7);
 }
 
 .mu-about-left {
@@ -742,7 +743,6 @@ button:focus {
 /* SPEAKERS */
 /*--------------------*/
 
-
 #mu-speakers {
 	background-color: #fff;
 	display: inline;
@@ -762,6 +762,25 @@ button:focus {
 	float: left;
 	margin-top: 50px;
 	width: 100%;
+}
+
+#mu-organizers {
+    background-color: #fff;
+    display: inline;
+    float: left;
+    width: 100%;
+}
+
+#mu-organizers
+.container {
+    width: 100%;
+}
+
+.mu-organizers-area {
+    display: inline;
+    float: left;
+    padding: 100px 0;
+    width: 100%;
 }
 
 .mu-chairs-content{
@@ -887,11 +906,17 @@ button:focus {
 	color: #fff;
 }
 
+.mu-venue-address h2 {
+    font-size: 32px;
+    color: #fff;
+}
+
 .mu-venue-address h2 i {
 	margin-top: -4px;
 	font-size: 22px;
 	display: inline-block;
 	vertical-align: middle;
+  color: #fff;
 }
 
 .mu-venue-address h3 {
@@ -1293,8 +1318,7 @@ button:focus {
 	width: 47%;
 	text-align: center;
 	margin-left: 30px;
-	margin-left: 30px;
-	margin-top: 30px;
+	padding-top: 30px;
 	background-color: #f3f3f3;
 }
 
@@ -1671,7 +1695,7 @@ button:focus {
 	}
 
 	.mu-contact-content {
-		padding: 0 10%;
+		padding: 10% 10%;
 	}
 
 
