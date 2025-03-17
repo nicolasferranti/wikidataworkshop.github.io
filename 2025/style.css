@@ -410,6 +410,11 @@ button:focus {
 	width: 100%;
 }
 
+.mu-about-area h2{
+    color: rgb(233, 70, 7);
+
+}
+
 #mu-call {
 	background-color: #fff;
 	display: inline;
@@ -781,6 +786,16 @@ button:focus {
     float: left;
     padding: 100px 0;
     width: 100%;
+}
+
+.mu-organizers-area .mu-sessions-content h3 {
+    font-size: medium;
+    font-weight: 500;
+}
+
+.mu-organizers-area .mu-sessions-content p {
+    color: rgb(233, 70, 7);
+    font-weight: 500;
 }
 
 .mu-chairs-content{
