@@ -917,7 +917,7 @@ button:focus {
 	display: inline;
 	float: left;
 	width: 100%;
-	padding: 10% 5%;
+	margin-top: 25%;
 	color: #fff;
 }
 

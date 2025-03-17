@@ -458,7 +458,11 @@ img,video {
 }
 
 .h-24 {
-    height: 17rem
+    height: 22rem
+}
+
+.w-24 {
+    width: 22rem
 }
 
 .h-3 {
@@ -555,10 +559,6 @@ img,video {
 
 .w-2\/3 {
     width: 66.666667%
-}
-
-.w-24 {
-    width: 13rem
 }
 
 .w-3 {
@@ -862,7 +862,7 @@ img,video {
 }
 
 .rounded-full {
-    border-radius: 9999px
+    border-radius: 100%
 }
 
 .rounded-lg {
