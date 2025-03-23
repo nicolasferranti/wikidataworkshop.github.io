@@ -798,6 +798,13 @@ button:focus {
     font-weight: 500;
 }
 
+.program-committee {
+    padding-bottom: 80px;
+}
+.program-committee p {
+    font-weight: 600;
+}
+
 .mu-chairs-content{
     display: inline;
     float: left;
