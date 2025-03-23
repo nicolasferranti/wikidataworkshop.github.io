@@ -797,6 +797,12 @@ button:focus {
     color: rgb(233, 70, 7);
     font-weight: 500;
 }
+.mu-organizers-area .mu-sessions-content .program-committee p {
+    color: black;
+    font-weight: 500;
+}
+
+
 
 .mu-chairs-content{
     display: inline;
