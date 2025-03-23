@@ -798,6 +798,10 @@ button:focus {
     font-weight: 500;
 }
 
+.mu-organizers-area .mu-sessions-content {
+    padding: 0;
+}
+
 .program-committee {
     padding-bottom: 80px;
 }
@@ -1343,7 +1347,6 @@ button:focus {
 	padding-top: 30px;
 	background-color: #f3f3f3;
 }
-
 
 .mu-contact-form-area {
 	display: inline;
