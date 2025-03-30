@@ -585,6 +585,10 @@ img,video {
     width: 24rem
 }
 
+.w-38 {
+    width: 38rem
+}
+
 .w-\[110px\] {
     width: 110px
 }
