@@ -871,6 +871,7 @@ button:focus {
     padding: 0;
 }
 
+
 .program-committee {
     padding-bottom: 80px;
 }
@@ -1283,6 +1284,15 @@ button:focus {
 	float: left;
 	padding: 100px 0 50px;
 	width: 100%;
+}
+
+.mu-sessions-area .mu-sessions-content ul{
+    list-style-type: none;
+}
+
+.mu-sessions-area .mu-sessions-content .paper-authors{
+    font-style: italic;
+	font-size: small;
 }
 
 .mu-sessions-header {
