@@ -1,2 +1,4 @@
 .idea
 wordcloud/.idea/workspace.xml
+.DS_Store
+.vscode
